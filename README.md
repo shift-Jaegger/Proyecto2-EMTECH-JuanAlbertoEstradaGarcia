@@ -4,3 +4,4 @@ En este repositorio se contienen los archivos de la segunda entrega del programa
 
 * ProyectoFinal.py: Archivo de código para desarrollar el análisis.
 * Reporte caso práctico 2 EMTECH.pdf: Reporte escrito del proyecto.
+* synergy_logistics_dataase.csv: Base de datos con la que se realiza el análisis
